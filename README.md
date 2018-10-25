@@ -2,6 +2,8 @@
 
 A conky theme made by me [(npyl)](https://npyl.github.io/about) using cool conky widgets (Gotham, TeeJee-4-Core)
 
+***(Yes, the wallpaper is included in the theme)***
+
 ## PREVIEW
 
 ![preview](npyl-theme.jpg)
